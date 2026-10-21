@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv4t7d7j0fsu01n0pznohwdy). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A case for the joystick macropad i did week one
+> A case for the joystick macropad i did week one. Designed to be able to be plugged into a computer and directly playable.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
