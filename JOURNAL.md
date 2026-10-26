@@ -54,7 +54,7 @@ UNFORTUNATELY: it crashed halfway through my design and seeing as i hadn't _save
 
 _FAHHH_
 
-i did not happen to take any screenshots while i was editing, thinking id take a couple at the end, so i have like no work to show.However, now that i have a version of freecad im semi used to, hopefully i can get it done by friday/saturday this week. (cad is so much nicer than pcb aside from the fact that the pan and zoom feel absolutely terrible and kicad button bindings muscle memory is screwing me up rn)
+i did not happen to take any screenshots while i was editing, thinking id take a couple at the end, so i have like no work to show.However, now that i have a version of freecad im semi used to (i've done a little cad before and the navigation on freecad 1.1.14 is much nicer) , hopefully i can get it done by friday/saturday this week. (cad is so much nicer than pcb aside from the fact that the pan and zoom feel absolutely terrible and kicad button bindings muscle memory is screwing me up rn)
 
 **tldr; got better freecad, better freecad crashed on me**
 
