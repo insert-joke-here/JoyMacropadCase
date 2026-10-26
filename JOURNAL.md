@@ -75,9 +75,11 @@ My design is split up into a base and a top, screwed together by M6 screws :
 i started with the base:
 
 ![entry3pic1](https://halflife.hackclub-assets.com/sessions/Txtz56AlpXYSvJEhT04HAEIaAgIKQaYV/997d51e45389e7f4228a0fec858081998ffb0f51bae1bd8d2c7b617d875c9866.png)
-and eventually ended up with this:
+and eventually ended up with this by extruding:
 
 ![the base](https://halflife.hackclub-assets.com/sessions/Txtz56AlpXYSvJEhT04HAEIaAgIKQaYV/f4ef5ec5376a99e03d0264d5cbf2110dad2e61b72d717bb346463b31e190b9d4.png)
+
+(_this base has screw holes which dont show up on the sketch because they werent supposed to go all the way through the base when i originally designed them. Later, i realised how expensive 3-d printing was and scaled my design down by making the base thinner. This meant the holes now had to go through the whole base, which is what you (should) see on the cover_)
 
 i then started on the top:
 
@@ -93,5 +95,9 @@ these were actually a pain to align lmao because i was worried about how accurat
 ^^these look like they arent aligned but they actually are (unless im lwk js selling which we'll find out on build week)
 
 i def should have made my pcb more precise and/or had a master document for everything, because trying to get measurements of any precision for the kicad placement was painful.
+
+the final product, with a thinner base and nice fillets (that were also kinda confusing because freecad kept annoying me and saying filleting wouldn't work, which i realised was because my fillet radius was too big):
+
+![cover](https://halflife.hackclub-assets.com/sessions/Txtz56AlpXYSvJEhT04HAEIaAgIKQaYV/aa0891aceebe134d46dbe4f04ef423741374b450f2ef8d54182c7aea42c84655.png)
 
 **tldr; i finished my entire project yay**
